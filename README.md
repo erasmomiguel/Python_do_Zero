@@ -17,30 +17,30 @@
 • Características de destaque: capacidade analítica, disciplina, senso de dono, trabalho em equipe, dinâmico, organizado, comprometido, pró-ativo e ético.
 
 • Mindset de autodesenvolvimento constante: ler livros, ebooks, cursos onlines, participar de palestras, treinamentos e eventos me motivam diariamente.
+
 • Apreciador de ferramentas de produtividade como Excel, ferramentas Google, Agenda, Trello e Pipedrive.
+
 • Experiência internacional com projetos e trabalhos pontuais com outros países como Colômbia, Índia e EUA.
+
 • Sócios administrador na Espaço Natural.
+
 • Sócio consultor na Evollua Consultoria.
 • Comercial e Administrativo na Ezok Inteligência Artificial. 
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Excel, Gestão Financeira, Varejo, Processos e Marketing.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
+* [Blog Ezok](https://ezok.ai/blog/)
+* [Blog Espaço Natural](https://www.espaconaturalblumenau.com.br/blog)
 * [LinkedIn](https://www.linkedin.com/in/erasmomiguel)
 * [Medium](https://medium.com/@erasmomiguel)
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja lista dos primeiros projetos Python que executei:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* **Como extrair dados do Conta Azul e gerar relaório semanal para OKR:** https://ezok.ai/
+
 
 ---
 
