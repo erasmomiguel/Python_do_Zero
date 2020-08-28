@@ -6,11 +6,18 @@
 </p>
 
 # Erasmo Miguel
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Administrator and Sales at Ezok</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
-
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+• Vivência em gestão de negócios, sendo responsável pela operação, vendas, marketing, processos e gestão financeira, além da coordenação e engajamento de equipes de trabalho.
+• Visão sistêmica para coordenação e estruturação de processos. Atuação constante no mapeamento de processos atuais e aplicação de oportunidades de melhorias.
+• Ampla atuação na área de desenvolvimento de produtos em diferentes categorias como cocção (fogões), lavanderia e refrigeração, trabalhando com a criação de novos produtos, melhoria de qualidade e principalmente com ações focadas em projetos de redução de custo.
+• Características de destaque: capacidade analítica, disciplina, senso de dono, trabalho em equipe, dinâmico, organizado, comprometido, pró-ativo e ético.
+• Mindset de autodesenvolvimento constante: ler livros, ebooks, cursos onlines, participar de palestras, treinamentos e eventos me motivam diariamente.
+• Apreciador de ferramentas de produtividade como Excel, ferramentas Google, Agenda, Trello e Pipedrive.
+• Experiência internacional com projetos e trabalhos pontuais com outros países como Colômbia, Índia e EUA.
+• Sócios administrador na Espaço Natural.
+• Sócio consultor na Evollua Consultoria.
+• Comercial e Administrativo na Ezok Inteligência Artificial. 
 
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
