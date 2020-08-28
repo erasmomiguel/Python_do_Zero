@@ -6,7 +6,7 @@
 </p>
 
 # Erasmo Miguel
-<sub>Administrator and Sales at Ezok & Owner and CEO ate Espaço Natural</sub>
+<sub>Administrator and Sales at Ezok & Owner and CEO at Espaço Natural</sub>
 
 • Vivência em gestão de negócios, sendo responsável pela operação, vendas, marketing, processos e gestão financeira, além da coordenação e engajamento de equipes de trabalho
 
@@ -25,6 +25,7 @@
 • Sócios administrador na Espaço Natural.
 
 • Sócio consultor na Evollua Consultoria.
+
 • Comercial e Administrativo na Ezok Inteligência Artificial. 
 
 **Background in:** Excel, Gestão Financeira, Varejo, Processos e Marketing.
@@ -39,7 +40,7 @@
 ## Projetos:
 Veja lista dos primeiros projetos Python que executei:
 
-* **Como extrair dados do Conta Azul e gerar relaório semanal para OKR:** https://ezok.ai/
+* **Como extrair dados do Conta Azul e gerar relatório semanal para OKR:** https://ezok.ai/
 
 
 ---
