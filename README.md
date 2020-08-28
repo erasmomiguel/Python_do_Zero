@@ -6,12 +6,16 @@
 </p>
 
 # Erasmo Miguel
-<sub>Administrator and Sales at Ezok</sub>
+<sub>Administrator and Sales at Ezok & Owner and CEO ate Espaço Natural</sub>
 
-• Vivência em gestão de negócios, sendo responsável pela operação, vendas, marketing, processos e gestão financeira, além da coordenação e engajamento de equipes de trabalho</sub>
-• Visão sistêmica para coordenação e estruturação de processos. Atuação constante no mapeamento de processos atuais e aplicação de oportunidades de melhorias.</sub>
+• Vivência em gestão de negócios, sendo responsável pela operação, vendas, marketing, processos e gestão financeira, além da coordenação e engajamento de equipes de trabalho
+
+• Visão sistêmica para coordenação e estruturação de processos. Atuação constante no mapeamento de processos atuais e aplicação de oportunidades de melhorias.
+
 • Ampla atuação na área de desenvolvimento de produtos em diferentes categorias como cocção (fogões), lavanderia e refrigeração, trabalhando com a criação de novos produtos, melhoria de qualidade e principalmente com ações focadas em projetos de redução de custo.
+
 • Características de destaque: capacidade analítica, disciplina, senso de dono, trabalho em equipe, dinâmico, organizado, comprometido, pró-ativo e ético.
+
 • Mindset de autodesenvolvimento constante: ler livros, ebooks, cursos onlines, participar de palestras, treinamentos e eventos me motivam diariamente.
 • Apreciador de ferramentas de produtividade como Excel, ferramentas Google, Agenda, Trello e Pipedrive.
 • Experiência internacional com projetos e trabalhos pontuais com outros países como Colômbia, Índia e EUA.
@@ -23,8 +27,8 @@
 
 **Links:**
 * [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/erasmomiguel)
+* [Medium](https://medium.com/@erasmomiguel)
 
 
 ## Projetos:
